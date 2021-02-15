@@ -8,11 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ribbon" />
         <module name="StreamDemo" />
-        <module name="cloud-stream-consumer-rabbitmq" />
         <module name="WebSocket" />
         <module name="cloudstreamconsumerrabbitmq" />
-        <module name="cloudstreamproducerrabbitmq" />
+        <module name="cloud-stream-consumer-rabbitmq" />
         <module name="Quartz" />
+        <module name="cloudstreamproducerrabbitmq" />
         <module name="zuul" />
         <module name="cloud-stream-producer-rabbitmq" />
         <module name="Test" />

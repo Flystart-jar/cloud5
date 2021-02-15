@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd994b59-e7bc-4a62-bba5-45a9164b92aa" name="Default Changelist" comment="" />
+    <list default="true" id="fd994b59-e7bc-4a62-bba5-45a9164b92aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/eureka/target/" />
@@ -29,6 +32,10 @@
     <SUITE FILE_PATH="coverage/cloud5$Sende_send.ic" NAME="Sende.send Coverage Results" MODIFIED="1571215366841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>dry.Sender.*</FILTER>
     </SUITE>
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -91,8 +98,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cloud5Server1/src/main/java/Server2/controller/contron1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="156">
+              <caret line="36" column="34" lean-forward="true" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -109,6 +116,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -137,7 +145,6 @@
         <option value="$PROJECT_DIR$/cloud-stream-producer-rabbitmq/src/main/java/dry/producer/ProducerController.java" />
         <option value="$PROJECT_DIR$/cloud-stream-producer-rabbitmq/src/main/java/dry/OutStream.java" />
         <option value="$PROJECT_DIR$/consumer1/src/main/java/consumer1/Controller/controller1.java" />
-        <option value="$PROJECT_DIR$/cloud5Server1/src/main/java/Server2/controller/contron1.java" />
         <option value="$PROJECT_DIR$/eureka/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/consumer1/pom.xml" />
         <option value="$PROJECT_DIR$/zuul/pom.xml" />
@@ -164,6 +171,7 @@
         <option value="$PROJECT_DIR$/consul/src/main/java/dry/imp/test.java" />
         <option value="$PROJECT_DIR$/Quartz/src/test/java/test/Test.java" />
         <option value="$PROJECT_DIR$/Test/src/test/java/dry/Test.java" />
+        <option value="$PROJECT_DIR$/cloud5Server1/src/main/java/Server2/controller/contron1.java" />
       </list>
     </option>
   </component>
@@ -188,12 +196,13 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="642" />
-    <option name="y" value="2" />
-    <option name="width" value="1347" />
-    <option name="height" value="729" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="641" />
+    <option name="y" value="1" />
+    <option name="width" value="1348" />
+    <option name="height" value="730" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -221,6 +230,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1613379564936" />
@@ -416,7 +426,8 @@
       <workItem from="1607259892647" duration="690000" />
       <workItem from="1607610874540" duration="254000" />
       <workItem from="1613374947417" duration="3181000" />
-      <workItem from="1613379875888" duration="644000" />
+      <workItem from="1613379875888" duration="1154000" />
+      <workItem from="1613387137959" duration="700000" />
     </task>
     <servers />
   </component>
@@ -453,7 +464,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="203600000" />
+    <option name="totallyTimeSpent" value="204810000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -465,9 +476,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24731903" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25067025" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -488,7 +499,7 @@
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32872504" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32872504" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="13" visible="true" weight="0.40934843" />
       <window_info anchor="bottom" id="Terminal" order="14" weight="0.32872504" />
       <window_info anchor="bottom" id="SonarLint" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -906,8 +917,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cloud5Server1/src/main/java/Server2/controller/contron1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="156">
+          <caret line="36" column="34" lean-forward="true" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
         </state>
       </provider>
     </entry>
