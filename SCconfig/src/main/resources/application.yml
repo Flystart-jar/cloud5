@@ -1,0 +1,17 @@
+server:
+  port: 8807
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://git.dev.tencent.com/MajorGeneralMao/csii-pa-2019.git
+          username: GitRB
+          password: qjq443874665
+#          search-paths: aa.txt
+  application:
+    name: config001
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8801/eureka/

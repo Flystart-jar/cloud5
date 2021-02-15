@@ -1,0 +1,17 @@
+server:
+  port: 8808
+spring:
+  application:
+    name: rabbit
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8801/eureka/
+
+#rabbitmq:
+#  host: localhost
+#  port: 5672
+#  username: guest
+#  password: guest
+#  virtual-host: A

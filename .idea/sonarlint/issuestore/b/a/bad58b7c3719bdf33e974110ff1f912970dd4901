@@ -1,0 +1,3 @@
+
+squid:UselessImportCheck"TRemove this unused import 'org.springframework.cloud.client.SpringCloudApplication'.(Œ¨ÜÐ8ßù€ÕÚ-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇÚöÚûÿÿÿÿ

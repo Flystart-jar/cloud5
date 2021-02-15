@@ -1,0 +1,5 @@
+
+Xsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÕÛà¯ûÿÿÿÿ8¹’üÚ-
+ksquid:UselessImportCheck"@Remove this unused import 'com.netflix.loadbalancer.RandomRule'.(¢ÕÏó8”’ËüÚ-
+zsquid:UselessImportCheck"JRemove this unused import 'com.sun.org.apache.bcel.internal.generic.IREM'.(ÕÛà¯ûÿÿÿÿ8¹’üÚ-
+fsquid:UselessImportCheck";Remove this unused import 'com.netflix.loadbalancer.IRule'.(ºßİï8”©ÊüÚ-

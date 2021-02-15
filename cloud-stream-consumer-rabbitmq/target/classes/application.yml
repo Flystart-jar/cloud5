@@ -1,0 +1,16 @@
+server:
+  port: 8810
+spring:
+  application:
+    name: StreamConsumer
+  rabbitmq:
+    addresses: <amqp url>
+  cloud:
+    stream:
+      bindings:
+        greetingChannel:
+          destination: greetings
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8801/eureka/

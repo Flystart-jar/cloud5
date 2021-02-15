@@ -1,0 +1,20 @@
+
+#eureka:
+#  client:
+#    serviceUrl:
+#      defaultZone: http://localhost:8801/eureka/
+
+spring:
+  application:
+    name: consumer1
+
+eureka:
+  instance:
+    lease-renewal-interval-in-seconds: 1
+    lease-expiration-duration-in-seconds: 2
+  client:
+    service-url:
+      defaultZone: http://localhost:8801/eureka/
+
+server:
+  port: 8803

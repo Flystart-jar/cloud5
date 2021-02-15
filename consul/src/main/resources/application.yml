@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: consum1
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+server:
+  port: 8812

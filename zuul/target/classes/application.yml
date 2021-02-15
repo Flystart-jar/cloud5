@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: api-zuul
+server:
+  port: 8804
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8801/eureka/
+
+zuul:
+  ignored-services: "*"
+  routes:
+    api-a:
+      path: /api-a/**
+      serviceId: ribbon
+
+
+

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ribbon" />
+        <module name="StreamDemo" />
+        <module name="cloud-stream-consumer-rabbitmq" />
+        <module name="WebSocket" />
+        <module name="cloudstreamconsumerrabbitmq" />
+        <module name="cloudstreamproducerrabbitmq" />
+        <module name="Quartz" />
+        <module name="zuul" />
+        <module name="cloud-stream-producer-rabbitmq" />
+        <module name="Test" />
+        <module name="cloud5Server2" />
+        <module name="cloud5Server1" />
+        <module name="eureka" />
+        <module name="rabbitMQ" />
+        <module name="SCconfig" />
+        <module name="consul" />
+        <module name="consumer1" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Quartz" options="-parameters" />
+      <module name="SCconfig" options="-parameters" />
+      <module name="StreamDemo" options="-parameters" />
+      <module name="Test" options="-parameters" />
+      <module name="WebSocket" options="-parameters" />
+      <module name="cloud-stream-consumer-rabbitmq" options="-parameters" />
+      <module name="cloud-stream-producer-rabbitmq" options="-parameters" />
+      <module name="cloud5" options="-parameters" />
+      <module name="cloud5Server1" options="-parameters" />
+      <module name="cloud5Server2" options="-parameters" />
+      <module name="cloudstreamconsumerrabbitmq" options="-parameters" />
+      <module name="cloudstreamproducerrabbitmq" options="-parameters" />
+      <module name="consumer1" options="-parameters" />
+      <module name="eureka" options="-parameters" />
+      <module name="rabbitMQ" options="-parameters" />
+      <module name="ribbon" options="-parameters" />
+      <module name="zuul" options="-parameters" />
+    </option>
+  </component>
+</project>

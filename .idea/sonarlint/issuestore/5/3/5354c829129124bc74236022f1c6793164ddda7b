@@ -1,0 +1,10 @@
+
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‹ñóñûÿÿÿÿ8ûŠ¿µß-
+squid:UselessImportCheck"ORemove this unused import 'org.springframework.integration.core.MessageSource'.(•è•Ýùÿÿÿÿ8‘å÷µß-
+Esquid:S1214&""Move constants to a class or enum.(öÑ„Ãýÿÿÿÿ8ƒø·µß-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(æÐ÷8µãü´ß-
+~squid:UselessImportCheck"NRemove this unused import 'org.springframework.integration.annotation.Poller'.(Òºáûýÿÿÿÿ8ó§Üµß-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¤ªÒÿÿÿÿÿ8âÀ²ß-
+|squid:UselessImportCheck
+"QRemove this unused import 'org.springframework.messaging.support.GenericMessage'.(Œ‘“²8‘å÷µß-
+‡squid:S1845*"dRename method "output" to prevent any misunderstanding/clash with field "OUTPUT" defined on line 39.(þÄ³¹ùÿÿÿÿ8ƒø·µß-
